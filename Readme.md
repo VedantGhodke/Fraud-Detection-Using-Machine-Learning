@@ -1,6 +1,7 @@
+# Fraud Detection Using Machine Learning
 
 ## Introduction 
-----
+
 This notebook contains Exploratory Data Analysis and Predictive Machine Learning Model for fraud detection. Fraud detection is valuable to many industries including the **banking-financial sectors, insurance, law enforcement, government agencies**, and many more. 
 
 In recent years we have seen a huge increase in Fraud attempts, making fraud detection important as well as challenging. Despite countless efforts and human supervision, **hundreds of millions** are lost due to **fraud**. Fraud can happen using various methods ie, stolen credit cards, misleading accounting, phishing emails, etc. Due to small cases in large population detection of fraud is important as well as challenging.
@@ -492,3 +493,4 @@ display(form)
 *  Existing rule-based system is **not capable** of detection of all the fraud transaction.
 *  **Machine learning** can be used for the detection of fraud transaction.
 *  Predictive models produce **good precision score** and are capable of detection of fraud transaction.
+
